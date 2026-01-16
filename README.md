@@ -57,10 +57,11 @@ See [Medical Disclaimer](MEDICAL_DISCLAIMER.md) for complete details.
 | **iOS** | 16.0+ |
 | **Xcode** | 15.0+ |
 
-### Full SpO2 Functionality
+### Full Heart Rate & SpO2 Functionality
 - Apple Watch Series 6, 7, 8, 9, 10
 - Apple Watch Ultra, Ultra 2
 
-> **Note:** Apple Watch Series 4, 5, and SE models support heart rate monitoring only. SpO2 readings will show as unavailable.
+### Heart Rate Functionality Only
+Apple Watch Series 4, 5, and SE models support heart rate monitoring only. SpO2 readings will show as unavailable on the app.
 
 ---
