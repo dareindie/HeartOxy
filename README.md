@@ -1,6 +1,6 @@
 # HeartOxy
 
-A comprehensive health monitoring application for Apple Watch and iPhone that provides 24/7 heart rate and SpO2 monitoring with intelligent alerts, emergency notifications, and detailed health analytics.
+A comprehensive health monitoring application for Apple Watch and iPhone that provides 24/7 heart rate and SpO2 monitoring with intelligent alerts, emergency notifications and exportation of health vitals thru CSV file.
 
 ## Features
 
