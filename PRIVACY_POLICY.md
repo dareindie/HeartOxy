@@ -202,7 +202,7 @@ As a California resident, you have the right to:
 
 To exercise your CCPA/CPRA rights, you may:
 
-- Email us at: HeartOxySG@gmail.com
+- Email us at: HeartOxy@anghari.com
 - Use the in-app data export feature (Right to Know/Access)
 - Delete the app and associated data (Right to Delete)
 
@@ -229,7 +229,7 @@ If you are located in the European Economic Area (EEA), United Kingdom, or Switz
 For the purposes of GDPR, the data controller is:
 
 **HeartOxy**
-Email: HeartOxySG@gmail.com
+Email: HeartOxy@anghari.com
 
 ### 9.2 Legal Basis for Processing
 
@@ -255,11 +255,11 @@ Under the GDPR, you have the following rights:
 
 ### 9.4 How to Exercise Your GDPR Rights
 
-To exercise any of your rights, please contact us at HeartOxySG@gmail.com. We will respond to your request within one month. This period may be extended by two additional months where necessary, taking into account the complexity and number of requests.
+To exercise any of your rights, please contact us at HeartOxy@anghari.com. We will respond to your request within one month. This period may be extended by two additional months where necessary, taking into account the complexity and number of requests.
 
 ### 9.5 Data Protection Officer
 
-Given the nature of our data processing (local storage only, no external servers), we have not appointed a Data Protection Officer. For privacy inquiries, please contact us at HeartOxySG@gmail.com.
+Given the nature of our data processing (local storage only, no external servers), we have not appointed a Data Protection Officer. For privacy inquiries, please contact us at HeartOxy@anghari.com.
 
 ### 9.6 Automated Decision-Making
 
@@ -314,7 +314,7 @@ We do NOT allow third-party behavioral tracking. No advertising networks, analyt
 
 HeartOxy is not intended for use by children under 13 years of age (or 16 in the EEA). We do not knowingly collect personal information from children under these ages.
 
-If you are a parent or guardian and believe your child has provided us with personal information, please contact us at HeartOxySG@gmail.com. If we become aware that we have collected personal information from a child without verification of parental consent, we will take steps to remove that information.
+If you are a parent or guardian and believe your child has provided us with personal information, please contact us at HeartOxy@anghari.com. If we become aware that we have collected personal information from a child without verification of parental consent, we will take steps to remove that information.
 
 ---
 
@@ -342,7 +342,7 @@ We encourage you to review this Privacy Policy periodically for any changes.
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us:
 
-**Email:** HeartOxySG@gmail.com
+**Email:** HeartOxy@anghari.com
 
 For GDPR-related inquiries from the EEA, UK, or Switzerland, please include "GDPR Request" in your email subject line.
 
