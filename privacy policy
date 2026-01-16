@@ -1,0 +1,2 @@
+# HeartOxy
+HeartOxy utilizes your Apple Watch's sensors to monitor your Heart Rate and Sp02.   Upon exceeding the user-configured Heart Rate and Sp02 values, notification alerts will be sent to the user on both the Apple Watch and iPhone. 
