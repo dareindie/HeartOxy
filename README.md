@@ -26,6 +26,17 @@ A comprehensive health monitoring application for Apple Watch and iPhone that pr
 - **Critical Alerts**: 10-second rapid repeat notifications (no limit) for critical violations
 - **Dismiss All Action**: Long-press notification to clear all pending and delivered alerts
 
+### Medical Disclaimer
+This app is intended for **general wellness and informational purposes only**. It is not a medical device and is not intended for medical or clinical use, including diagnosis, monitoring, treatment, or prevention of any disease or health condition.
+
+- NOT a medical device
+- NOT FDA approved
+- NOT a substitute for professional medical advice
+- Consult healthcare provider for medical decisions
+- In case of emergency, call local emergency services
+
+See [Medical Disclaimer](MEDICAL_DISCLAIMER.md) for complete details.
+
 
 ---
 
