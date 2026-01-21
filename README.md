@@ -42,7 +42,7 @@ See [Medical Disclaimer](MEDICAL_DISCLAIMER.md) for complete details.
 
 | Device | Minimum | SpO2 Support |
 |--------|---------|--------------|
-| Apple Watch | Series 4 onwards (Refer to ** , Series 6+ required for SpO2 Functionality 
+| Apple Watch | Series 4 onwards (Refer to **)| Series 6+ required for SpO2 Functionality | 
 | iPhone | iPhone 8 | All supported |
 
 ### Software Requirements
