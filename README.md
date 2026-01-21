@@ -1,31 +1,32 @@
 # HeartOxy
 
-A Heart Rate & Sp02 monitoring application for Apple Watch and iPhone that provides 24/7 heart rate and SpO2 monitoring with intelligent alerts, emergency notifications and exportation of health vitals thru CSV file.
+HeartOxy is a cardio and walking meditation app designed to monitor heart rate and SpO2 during physical health activities such as
+-	Walking meditation sessions - Mindful walking with breathing focus
+-	Light cardio activities - Warm-up, cool-down, and recovery exercises
+-	Preparation and recovery routines - Pre and post-workout health monitoring
 
 ## Features
 
-### Apple Watch App
-- **24/7 Continuous Monitoring**: Real-time heart rate and SpO2 tracking
-- **Threshold Alerts**: Customizable warning and critical alerts for abnormal readings
-- **Rapid Repeat Critical Alerts**: 10-second repeating notifications for critical violations
-- **Real-time iPhone Sync**: Live data sync to iPhone
+1. Real-Time Vital Signs Display (Watch App - Main Screen)
+- Heart Rate: Displayed prominently in real-time (updated every user-defined interval: 1-20 seconds)
+- SpO2: Blood oxygen percentage displayed alongside Heart Rate
+- This is the first screen users see upon launching the Watch app
 
-### iPhone App
-- **Enhanced Live Chart**: Real-time scrolling chart with smooth animations and live ticker
-- **Historical Data Visualization**: Beautiful charts showing trends over time
-- **Time Range Selection**: View data in multiple time windows (30m, 1h, 3h, 6h, 12h, 24h)
-- **HealthKit Import**: Import historical heart rate and SpO2 data from Apple Health
-- **CSV Export**: Export all health data with timestamps in ddMMyyyy HH:mm:ss format
-- **Alert History**: Complete violation records with historical tracking
-- **Emergency SOS Integration**: Quick access to Apple's native Emergency SOS
-- **Watch Connectivity**: Real-time and queued data sync from Apple Watch
+2. Threshold-Based Health Alerts (Watch + iPhone)
+- Users configure personal safety thresholds (e.g., HR below 45 or above 120 BPM, SpO2 below 90%)
+- Critical alerts trigger immediate notifications when vitals exceed safe ranges
+- This feature is essential for users monitoring health conditions during extended fitness activities
 
-### Alert System
-- **Multi-Tier Delivery**: Watch local notifications, WatchConnectivity, CloudKit emergency alerts
-- **Normal Alerts**: 60-second cooldown for warning threshold violations
-- **Critical Alerts**: 10-second rapid repeat notifications (no limit) for critical violations
-- **Dismiss All Action**: Long-press notification to clear all pending and delivered alerts
+3. Enhanced Live Chart (iPhone App)
+- Interactive graph plotting Heart Rate and SpO2 trends over time
+- Threshold lines visually marked for easy identification of concerning patterns
+- Real-time updates as data syncs from Apple Watch
 
+4. Historical Health Log & Export (iPhone App)
+- Complete timestamped record of all Heart Rate and SpO2 readings
+- CSV export functionality for personal fitness tracking and workout analysis
+- Enables users to review their fitness session data and monitor trends over time
+  
 ### Medical Disclaimer
 This app is intended for **general wellness and informational purposes only**. It is not a medical device and is not intended for medical or clinical use, including diagnosis, monitoring, treatment, or prevention of any disease or health condition.
 
@@ -37,31 +38,30 @@ This app is intended for **general wellness and informational purposes only**. I
 
 See [Medical Disclaimer](MEDICAL_DISCLAIMER.md) for complete details.
 
-
----
-
-## Requirements
-
-### Hardware
+### Hardware Requirements
 
 | Device | Minimum | SpO2 Support |
 |--------|---------|--------------|
-| **Apple Watch** | Series 4 | Series 6+ required for SpO2 |
-| **iPhone** | iPhone 8 | All supported |
+| Apple Watch | Series 4 onwards (Refer to ** , Series 6+ required for SpO2 Functionality 
+| iPhone | iPhone 8 | All supported |
 
-### Software
+### Software Requirements
 
 | Platform | Minimum Version |
 |----------|-----------------|
-| **watchOS** | 9.0+ |
-| **iOS** | 16.0+ |
-| **Xcode** | 15.0+ |
+| watchOS | 9.0+ |
+| iOS | 16.0+ |
+| Xcode | 15.0+ |
 
 ### Full Heart Rate & SpO2 Functionality
-- Apple Watch Series 6, 7, 8, 9, 10
-- Apple Watch Ultra, Ultra 2
+- Apple Watch Series 6 onwards
+- Apple Watch Ultra onwards
 
 ### Heart Rate Functionality Only
-Apple Watch Series 4, 5, and SE models support heart rate monitoring only. SpO2 readings will show as unavailable on the app.
+** Apple Watch Series 4, 5, and SE models support heart rate monitoring only. SpO2 readings will show as unavailable on the app.
 
+### Not Supported
+- Apple Watch Series 3 and below.
+- We apologise that we are unable to support these devices due to iOS compatibility issues.
+  
 ---
