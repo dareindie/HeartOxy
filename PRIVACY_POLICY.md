@@ -27,7 +27,7 @@
 
 **Effective Date:** January 16, 2026
 
-HeartOxy ("we," "us," "our," or "the App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our heart rate and SpO2 monitoring application for Apple Watch and iPhone.
+HeartOxy ("we," "us," "our," or "the App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our heart rate zone training application for Apple Watch and iPhone.
 
 By using HeartOxy, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with our policies and practices, please do not use our App.
 
@@ -43,11 +43,14 @@ When you use HeartOxy, the App collects the following health data from your Appl
 
 - **Heart Rate Data:** Real-time and historical heart rate measurements (in beats per minute)
 - **Blood Oxygen (SpO2) Data:** Oxygen saturation readings (percentage)
-- **Workout Status:** Whether you are in an active workout session
+- **Workout Session Data:** Active workout start/stop times, duration, and session type
+- **Heart Rate Zone Data:** Current and historical heart rate zone classifications (Warm-up, Fat Burn, Aerobic, Anaerobic) during workouts
+- **Sleep Stage Data:** Sleep stage readings (Awake, In Bed, Core Sleep, Deep Sleep, REM) when background monitoring is active
 
 ### 2.2 User-Provided Information
 
-- **Threshold Settings:** Custom alert thresholds you configure for heart rate and SpO2 alerts
+- **Workout Settings:** Target heart rate zone selection, custom intensity thresholds (Recovery, Low, High, Peak BPM levels), and age for zone calculation
+- **Notification Preferences:** Which intensity levels trigger feedback alerts and repeat alert settings
 - **Emergency Contact Information:** Name and phone number of emergency contacts you choose to add (optional)
 
 ### 2.3 Information We Do NOT Collect
@@ -70,6 +73,9 @@ We use the collected information exclusively for the following purposes:
 | Display real-time health readings | Heart rate, SpO2 | Contract performance / Consent |
 | Generate health alerts | Heart rate, SpO2, thresholds | Contract performance / Consent |
 | Create historical charts | Heart rate, SpO2, timestamps | Contract performance / Consent |
+| Provide heart rate zone training feedback | Heart rate, zone settings | Contract performance / Consent |
+| Display intensity level during workouts | Heart rate, intensity thresholds | Contract performance / Consent |
+| Generate post-workout summary | Heart rate, zone distribution | Contract performance / Consent |
 | Export data (user-initiated) | All health data | Consent |
 | Sync between devices | All health data | Contract performance |
 | Emergency contact alerts | Contact info, health readings | Consent / Vital interests |
@@ -350,10 +356,10 @@ For CCPA/CPRA-related inquiries from California residents, please include "Calif
 
 ---
 
-**Last Updated:** January 16, 2026
+**Last Updated:** February 2026
 **Effective Date:** January 16, 2026
-**Version:** 1.0
+**Version:** 1.1
 
 ---
 
-© 2025 HeartOxy. All rights reserved.
+© 2026 HeartOxy. All rights reserved.
