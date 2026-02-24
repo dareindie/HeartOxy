@@ -86,4 +86,4 @@ HeartOxy is intended for **fitness and workout guidance only**. It is not a medi
 - Consult a healthcare provider before starting any new exercise programme
 - In case of emergency, call your local emergency services
 
-See [Fitness & Wellness Disclaimer](MEDICAL_DISCLAIMER.md) for full details.
+See [Fitness & Wellness Disclaimer](Fitness_Wellness_Disclaimer.md) for full details.
