@@ -76,7 +76,7 @@ HeartOxy calculates personalised heart rate zones based on your age:
 
 ---
 
-## Medical Disclaimer
+## Fitness & Wellness Disclaimer
 
 HeartOxy is intended for **fitness and workout guidance only**. It is not a medical device and is not intended for diagnosis, treatment, or medical use.
 
@@ -86,4 +86,4 @@ HeartOxy is intended for **fitness and workout guidance only**. It is not a medi
 - Consult a healthcare provider before starting any new exercise programme
 - In case of emergency, call your local emergency services
 
-See [Medical Disclaimer](MEDICAL_DISCLAIMER.md) for full details.
+See [Fitness & Wellness Disclaimer](MEDICAL_DISCLAIMER.md) for full details.
