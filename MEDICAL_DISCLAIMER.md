@@ -1,4 +1,4 @@
-# Medical Disclaimer
+# Fitness & Wellness Disclaimer
 
 ## Important Notice
 
@@ -62,7 +62,7 @@ If you are experiencing a medical emergency:
 
 ---
 
-**Your health and safety are your responsibility. HeartOxy is a fitness guidance tool, not a medical device.**
+**Your health and safety are your responsibility. HeartOxy is a fitness and wellness guidance tool, not a medical device.**
 
 ---
 
