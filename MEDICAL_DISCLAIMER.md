@@ -2,13 +2,13 @@
 
 ## Important Notice
 
-This app is intended for **general wellness and informational purposes only**. It is not a medical device and is not intended for medical or clinical use, including diagnosis, monitoring, treatment, or prevention of any disease or health condition.
+HeartOxy is intended for **fitness and workout guidance only**. It is not a medical device and is not intended for medical or clinical use, including diagnosis, monitoring, treatment, or prevention of any disease or health condition.
 
 ---
 
 ## Data Accuracy
 
-Data, insights, and alerts may be inaccurate, incomplete, delayed, or unavailable. **Do not rely on this app for medical decisions or emergency situations.**
+Data, insights, and feedback may be inaccurate, incomplete, or delayed. **Do not rely on this app for medical decisions or emergency situations.**
 
 ---
 
@@ -32,9 +32,9 @@ Data, insights, and alerts may be inaccurate, incomplete, delayed, or unavailabl
 
 ## Limitations
 
-- Heart rate and SpO2 readings from consumer wearables may differ from clinical-grade medical devices
+- Heart rate readings from consumer wearables may differ from clinical-grade medical devices
 - Sensor accuracy can be affected by movement, skin tone, tattoos, temperature, and device fit
-- Background monitoring may have gaps due to device limitations and power management
+- Intensity feedback and zone guidance are based on estimated maximum heart rate and are not personalised medical assessments
 - Alerts may be delayed or may not trigger in all circumstances
 
 ---
@@ -44,7 +44,7 @@ Data, insights, and alerts may be inaccurate, incomplete, delayed, or unavailabl
 By using HeartOxy, you acknowledge and agree that:
 
 1. You will not use this app as a substitute for professional medical advice, diagnosis, or treatment
-2. You will consult a qualified healthcare provider before making any health-related decisions
+2. You will consult a qualified healthcare provider before starting any new exercise programme
 3. You understand the limitations of consumer health monitoring devices
 4. You will contact emergency services immediately if you experience symptoms of a medical emergency
 
@@ -62,8 +62,8 @@ If you are experiencing a medical emergency:
 
 ---
 
-**Your health and safety are your responsibility. This app is a wellness tool, not a medical device.**
+**Your health and safety are your responsibility. HeartOxy is a fitness guidance tool, not a medical device.**
 
 ---
 
-*Last Updated: January 16, 2026*
+*Last Updated: February 2026*
