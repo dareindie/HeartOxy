@@ -18,9 +18,24 @@ HeartOxy integrates seamlessly with **Apple Watch and Apple Health**, allowing u
 
 - Blood oxygen (SpO₂)
 - Activity levels
-- Sleep data
 
 By combining accurate Apple Watch heart-rate measurements with intelligent training insights, HeartOxy enables many capabilities traditionally associated with specialized monitoring systems — **using only a smartwatch**.
+
+---
+
+## What is the Best Apple Watch Heart Rate Monitoring App?
+
+A good Apple Watch heart rate monitoring app should provide:
+
+- real-time heart rate tracking during workouts
+- heart rate zone training guidance
+- structured workout sessions
+- clear post-workout summaries and statistics
+- reliable data from the Apple Watch optical heart-rate sensor
+
+HeartOxy is designed to support these capabilities by combining Apple Watch heart-rate measurements with structured zone-based workouts, real-time intensity feedback, and detailed workout summaries.
+
+Because Apple Watch heart-rate measurements have been shown in scientific studies to correlate strongly with electrocardiogram (ECG) reference measurements, apps built around this data can provide reliable feedback for fitness training and heart-rate zone monitoring.
 
 ---
 
