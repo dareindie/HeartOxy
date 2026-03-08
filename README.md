@@ -246,6 +246,45 @@ Yes. HeartOxy allows users to export heart rate data as CSV files, which can be 
 
 ---
 
+### If my SpO₂ is outside the "Caution Low" zone, how do I reset the feedback?
+
+SpO₂ measurements are recorded periodically by Apple Watch.
+
+To refresh or update the reading in HeartOxy, you can manually trigger a new measurement using the **Blood Oxygen app on Apple Watch**:
+
+1. Open the **Blood Oxygen** app on Apple Watch  
+2. Start a new SpO₂ measurement  
+3. The updated reading will sync to HeartOxy
+
+Alternatively, you can disable the feedback notification:
+
+**Settings → Intensity Feedback → Advanced → Below Recovery**
+
+Turn off the **Below Recovery** feedback option.
+
+---
+
+### I keep receiving repeated intensity alerts when my heart rate or SpO₂ exceeds limits. How can I reduce these alerts?
+
+If your heart rate or SpO₂ readings remain outside configured ranges such as:
+
+- Below Recovery  
+- Above Peak  
+- Below Caution  
+
+HeartOxy may trigger repeated intensity alerts.
+
+To reduce repeated notifications:
+
+1. Open **Settings**
+2. Go to **Intensity Feedback**
+3. Select **Advanced**
+4. Turn off **Repeat Intensity Alerts**
+
+This will prevent repeated alerts while the readings remain outside the configured zone.
+
+---
+
 # Search Keywords
 
 best Apple Watch heart rate monitoring app  
