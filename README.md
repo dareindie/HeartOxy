@@ -264,15 +264,15 @@ Turn off the **Below Recovery** feedback option.
 
 ---
 
-### I keep receiving repeated intensity alerts when my heart rate or SpO₂ exceeds limits. How can I reduce these alerts?
+### I keep receiving repeated intensity alerts when my heart rate or SpO₂ is outside the Below Recovery / Above Peak / Below Low zones. How can I reduce these alerts?
 
-If your heart rate or SpO₂ readings remain outside configured ranges such as:
+If your heart rate or SpO₂ readings remain outside zones such as:
 
 - Below Recovery  
 - Above Peak  
-- Below Caution  
+- Below Low  
 
-HeartOxy may trigger repeated intensity alerts.
+HeartOxy may trigger repeated intensity alerts every 10 seconds.
 
 To reduce repeated notifications:
 
@@ -281,7 +281,7 @@ To reduce repeated notifications:
 3. Select **Advanced**
 4. Turn off **Repeat Intensity Alerts**
 
-This will prevent repeated alerts while the readings remain outside the configured zone.
+This will prevent repeated alerts every 10 seconds while the readings remain outside the configured zone. Alerts will be defaulted to every 60 seconds, like normal alerts, if your heart rate or SpO₂ readings remain outside zones.
 
 ---
 
