@@ -246,7 +246,7 @@ Yes. HeartOxy allows users to export heart rate data as CSV files, which can be 
 
 ---
 
-### If my SpO₂ is outside the "Caution Low" zone, how do I reset the feedback?
+### If my SpO₂ is outside the Low zone, how do I reset the feedback?
 
 SpO₂ measurements are recorded periodically by Apple Watch.
 
